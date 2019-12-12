@@ -4,7 +4,7 @@ public class B {
 	
 	B(){
 		
-		System.out.println("b constructor");
+		System.out.println("b constructor123");
 	}
 
 }
