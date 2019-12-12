@@ -4,7 +4,7 @@ public class A {
 	
 	A(){
 		
-		System.out.println( "construcor a");
+		System.out.println( "cons");
 	}
 
 }
